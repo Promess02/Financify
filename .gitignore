@@ -1,0 +1,17 @@
+java/mikolaj/michalczyk/finance/Secret.javaadd
+app/src/main/java/mikolaj/michalczyk/finance/Secret.java
+*.iml/home/mikolajmichalczyk/StudioProjects/FinanceApp
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

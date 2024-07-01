@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Financify</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="stock_name">[STOCK_NAME]</string>
+    <string name="ok">OK</string>
+    <string name="select_interval">Select Interval</string>
+    <string name="select_region">Select Region</string>
+    <string name="select_range">Select Range</string>
+    <string name="select">Select</string>
+    <string name="enter_stock_symbol">Enter stock symbol</string>
+    <string name="search">Search</string>
+    <string name="chart_for_stock">Chart for stock:</string>
+    <string name="symbol">[SYMBOL]</string>
+    <string name="details">Details</string>
+    <string name="refresh">Refresh</string>
+    <string name="volume">Volume</string>
+</resources>
