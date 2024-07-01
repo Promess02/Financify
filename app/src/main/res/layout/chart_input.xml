@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_interval"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spinnerInterval"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_region"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spinnerRegion"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_range"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spinnerRange"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/buttonSelect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select" />
+
+</LinearLayout>
