@@ -5,3 +5,5 @@ public class Secret {
     public static final String API_KEY = [YOUR_API_KEY];
 }
 ```
+
+Here is API link: https://rapidapi.com/apidojo/api/yahoo-finance1
